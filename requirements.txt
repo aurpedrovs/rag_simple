@@ -1,6 +1,7 @@
 # requirements.txt
 #langchain==0.0.154
 langchain
+langchain_community
 pypdf
 python-dotenv
 streamlit
